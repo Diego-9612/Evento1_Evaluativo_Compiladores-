@@ -1,4 +1,6 @@
 # Evento1_Evaluativo_Compiladores-
+
+Intgrantes: Diego Fernando Guerrero Perez, Lina Marisol Viveros 
  
  Evaluación de Expresiones con Variables y Prioridad de Operaciones
  
